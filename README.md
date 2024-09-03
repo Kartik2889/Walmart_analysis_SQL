@@ -10,4 +10,4 @@ This repository contains the Walmart sales dataset, which has been analyzed usin
 - Implemented queries to identify the most frequent customers, top revenue-generating customer types, and gender distribution across branches.
 - Performed VAT (tax) analysis to identify cities and customer types contributing the most to tax revenue.
 
-This summary emphasizes the key tasks and outcomes, providing a clear picture of your contributions.
+
